@@ -3,6 +3,10 @@
 # onkyori_listener
 onkyori_*** are modules what enable cooperation with the Onkyo RI system.
 
+## Warning
+This module is deprecated.  
+Use [onkyori_listener2](https://github.com/jun10000/onkyori_listener2) instead.
+
 ## Description
 The onkyori_listener is the daemon what acquires Onkyo RI signal and registers it to database.  
 This daemon needs [onkyori_common] module to operate.
